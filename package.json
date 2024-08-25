@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/voluptates-incidunt-quidem-est",
-  "version": "2.7.116",
+  "version": "2.7.117",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -626,5 +626,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/voluptates-incidunt-quidem-est/issues"
   },
-  "packageManager": "yarn@4.4.0"
+  "packageManager": "yarn@4.4.1"
 }
